@@ -1,0 +1,12 @@
+def most_frequent():
+a=input("please enter a string")
+most_frequent()
+a.count(p)
+a.count(l)
+a.count(e)
+a.count(a)
+
+
+
+
+
